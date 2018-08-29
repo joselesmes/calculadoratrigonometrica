@@ -6,7 +6,6 @@ package calc;/*
 
 /**
  *
- * @author nicolas
  */
 public class Pantalla extends javax.swing.JFrame {
        int operador;
